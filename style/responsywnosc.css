@@ -1,0 +1,18 @@
+.main{
+    /*width:65%;
+    height:125px;
+    margin-bottom:10px;
+    float:left;*/
+}
+.piechart{
+    /*width:40%;*/
+    /*height:450px;*/
+    float: right;
+}
+
+@media screen and (max-width: 1100px) {
+    .piechart {
+        width: 100%;
+        float: none;
+    }
+}

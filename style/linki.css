@@ -1,0 +1,41 @@
+ul {
+    background: #a7a7a7;
+    padding: 20px;
+    width: 100%;
+}
+
+ul li {
+    margin: 5px;
+}
+
+ul li.odnosnik_do_nadjednostki{
+        background: #cce5ff;
+}
+
+ul li.odnosnik_do_podjednostki{
+        background: #cce5ff;
+}
+
+a {
+    text-decoration: none;
+}
+
+ /* unvisited link */
+a:link {
+    color: #323232;
+}
+
+/* visited link */
+a:visited {
+    color: #a76199;
+}
+
+/* mouse over link */
+a:hover {
+    color: #ff646c;
+}
+
+/* selected link */
+a:active {
+    color: #ff000a;
+}
