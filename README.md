@@ -8,6 +8,6 @@ python3 main.py
 ```
 
 
-##### written in python3 with jinja templates sites generators
+written in python3 with jinja templates sites generators
 
-##### results will be in the folder hierarchy ```wynikiGeneratora``` 
+results will be in the folder hierarchy ```wynikiGeneratora``` 
